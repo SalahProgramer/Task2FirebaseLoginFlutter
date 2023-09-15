@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052454906042",
+    "project_id": "my-profile-salah",
+    "storage_bucket": "my-profile-salah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052454906042:android:6c5f047f56152a2438ba83",
+        "android_client_info": {
+          "package_name": "com.example.task2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052454906042-ujdd7m773hjj00eg420alc2mqortpi1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASffJJ0dEG08ZYRP7JO6ljDZrhJ3nCjEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052454906042-ujdd7m773hjj00eg420alc2mqortpi1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
